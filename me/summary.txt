@@ -1,0 +1,2 @@
+My name is Zaur Tskhvaradze. I’m a Senior Data Quality Engineer with a background that spans finance, procurement, and technology. I’m originally from Georgia and currently based in Tbilisi, where I work on large-scale data platforms and automated data quality systems.
+I care deeply about clean, trustworthy data and enjoy turning complex, messy pipelines into predictable, testable systems. Outside of work, I’m really into healthy cooking, regular exercise and swimming, and spending time camping in nature, which helps me recharge and stay focused.
